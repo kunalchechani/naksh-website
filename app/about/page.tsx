@@ -51,10 +51,10 @@ export default function AboutPage() {
           <div className="max-w-3xl">
             <p className="text-accent font-semibold tracking-wide uppercase mb-4">About Us</p>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
-              The Story Behind
-              <br />
-              <span className="text-accent">The Crunch</span>
-            </h1>
+  Ice Cream Cone Manufacturer Trusted by
+  <br />
+  <span className="text-accent">Ice Cream Companies Across India</span>
+</h1>
             <p className="text-lg text-primary-foreground/80 leading-relaxed">
               Established in 2023, Naksh Enterprise is a premier B2B manufacturer specializing in high-quality ice cream
               cones and custom aluminium foil sleeves.
@@ -71,18 +71,22 @@ export default function AboutPage() {
               <h2 className="text-3xl md:text-4xl font-bold text-primary mb-6">Who We Are</h2>
               <div className="space-y-4 text-brown-light leading-relaxed">
                 <p>
-                  Naksh Enterprise serves as the silent partner behind successful ice cream brands, ensuring their
-                  products look premium and taste fresh. We understand that moisture is the enemy of a good cone.
-                </p>
-                <p>
-                  Our proprietary baking process ensures our cones retain their crisp texture for extended periods,
-                  providing a superior experience to the end consumer. We are committed to delivering excellence in
-                  every product we manufacture.
-                </p>
-                <p>
-                  Located in Surat, Gujarat, our state-of-the-art facility is equipped with modern machinery and follows
-                  strict quality control measures to ensure consistency in every batch.
-                </p>
+  Naksh Enterprise is a specialized <strong>ice cream cone manufacturer in India</strong>,
+  serving ice cream factories, brands, and distributors with premium-quality sugar cones,
+  waffle cones, and custom aluminium foil ice cream sleeves.
+</p>
+
+<p>
+  We work exclusively in the B2B segment, supplying cones that are engineered for
+  <strong>moisture resistance, long shelf life, and consistent crunch</strong>—critical
+  factors for commercial ice cream production.
+</p>
+
+<p>
+  Operating from our modern manufacturing facility in Surat, Gujarat, we follow
+  FSSAI-compliant processes and strict hygiene standards to ensure every batch meets
+  industrial quality expectations.
+</p>
               </div>
             </div>
             <div className="relative aspect-[4/3] rounded-2xl overflow-hidden shadow-xl">
