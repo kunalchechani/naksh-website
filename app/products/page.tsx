@@ -27,7 +27,7 @@ const cones = [
     height: "95mm",
     diameter: "41mm",
     angle: "23°",
-    weight: "8g",
+    weight: "8g", // Assuming unchanged
     idealFor: "Standard Retail Cones",
   },
   {
@@ -35,7 +35,7 @@ const cones = [
     height: "85mm",
     diameter: "37mm",
     angle: "23°",
-    weight: "6.5g",
+    weight: "8g", // Updated from 6.5g
     idealFor: "Budget / School Packs",
   },
   {
@@ -54,21 +54,17 @@ const cones = [
     weight: "4.5g",
     idealFor: "Bite-sized / Samplers",
   },
-]
+];
 
 const flavors = ["Classic Sugar Rolled", "Chocolate Coated (Inner spray)", "Strawberry", "Vanilla", "Charcoal (Black)"]
 
 const sleeves = [
-  { name: "Micro Mini Sleeve", height: "87mm", diameter: "35.41mm", gsm: "100" },
-  { name: "Micro Mini Sleeve", height: "110mm", diameter: "44.76mm", gsm: "100" },
-  { name: "Micro Mini Sleeve", height: "121mm", diameter: "47.05mm", gsm: "100" },
-  { name: "Micro Mini Sleeve", height: "133mm", diameter: "51.7mm", gsm: "100" },
   { name: "Micro Cone Sleeve", height: "135mm", diameter: "52.9mm", gsm: "100" },
   { name: "Mini Cone Sleeve", height: "145mm", diameter: "56.8mm", gsm: "100" },
-  { name: "Mini Cone Sleeve", height: "148mm", diameter: "57.54mm", gsm: "100" },
-  { name: "Standard Cone Sleeve", height: "151mm", diameter: "58.7mm", gsm: "100" },
+  { name: "Standard Cone Sleeve", height: "155mm", diameter: "58.7mm", gsm: "100" },
   { name: "Big Cone Sleeve", height: "165mm", diameter: "64.2mm", gsm: "100" },
-]
+];
+
 
 const sleeveServices = [
   "Full-color custom printing (CMYK)",
