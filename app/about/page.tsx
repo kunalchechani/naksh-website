@@ -91,8 +91,8 @@ export default function AboutPage() {
             </div>
             <div className="relative aspect-[4/3] rounded-2xl overflow-hidden shadow-xl">
               <img
-                src="/modern-food-manufacturing-factory-interior-clean-i.jpg"
-                alt="Naksh Enterprise Manufacturing Facility"
+                src="/premium_ice_cream_cones.webp"
+                alt="Ice Cream Cone Manufacturer"
                 className="w-full h-full object-cover"
               />
             </div>
