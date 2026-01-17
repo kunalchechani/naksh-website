@@ -12,13 +12,13 @@ export function AboutPreview() {
             <div className="space-y-4">
               <div className="aspect-[4/5] rounded-2xl overflow-hidden">
                 <img
-                  src="/ice-cream-cone-manufacturing-factory-machinery-ind.jpg"
+                  src="/premium_ice_cream_cones.webp"
                   alt="Manufacturing Facility"
                   className="w-full h-full object-cover"
                 />
               </div>
               <div className="aspect-square rounded-2xl overflow-hidden">
-                <img src="/quality-control-inspection-ice-cream-cones.jpg" alt="Quality Control" className="w-full h-full object-cover" />
+                <img src="/custom-printed-ice-cream-sleeves-various-designs-c.jpg" alt="Cone Sleeves" className="w-full h-full object-cover" />
               </div>
             </div>
             <div className="space-y-4 pt-8">
@@ -26,7 +26,7 @@ export function AboutPreview() {
                 <img src="/aluminium-foil-sleeves-printing-custom-packaging.jpg" alt="Custom Printing" className="w-full h-full object-cover" />
               </div>
               <div className="aspect-[4/5] rounded-2xl overflow-hidden">
-                <img src="/warehouse-storage-ice-cream-cones-boxes-packaging.jpg" alt="Warehouse Storage" className="w-full h-full object-cover" />
+                <img src="/ice-cream_cones_and_sleeves.webp" alt="Ice Cream Cones & Sleeves" className="w-full h-full object-cover" />
               </div>
             </div>
           </div>
