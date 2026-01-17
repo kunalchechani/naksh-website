@@ -23,7 +23,7 @@ export function AboutPreview() {
             </div>
             <div className="space-y-4 pt-8">
               <div className="aspect-square rounded-2xl overflow-hidden">
-                <img src="/aluminium-foil-sleeves-printing-custom-packaging.jpg" alt="Custom Printing" className="w-full h-full object-cover" />
+                <img src="/cones_best_quality.webp" alt="Best Quality Ice Cream Cones" className="w-full h-full object-cover" />
               </div>
               <div className="aspect-[4/5] rounded-2xl overflow-hidden">
                 <img src="/ice-cream_cones_and_sleeves.webp" alt="Ice Cream Cones & Sleeves" className="w-full h-full object-cover" />
