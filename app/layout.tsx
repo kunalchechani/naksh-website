@@ -18,79 +18,68 @@ const openSans = Open_Sans({
 
 export const metadata: Metadata = {
   title: {
-    default: "Naksh Enterprise | Premium Ice Cream Cones & Aluminium Sleeves Manufacturer",
+    default:
+      "Ice Cream Cone Manufacturer in India | Naksh Enterprise – B2B Ice Cream Cones & Sleeves",
     template: "%s | Naksh Enterprise",
   },
   description:
-    "Naksh Enterprise is a premier B2B manufacturer of high-quality ice cream cones and custom aluminium foil sleeves in Surat, Gujarat. FSSAI certified. The Crunch That Lasts.",
+    "Naksh Enterprise is a leading B2B ice cream cone manufacturer in India, supplying premium sugar cones, waffle cones, and aluminium foil ice cream sleeves to ice cream companies nationwide. FSSAI certified, hygienic, bulk supply.",
   keywords: [
-    "ice cream cones",
-    "sugar cones",
-    "waffle cones",
-    "aluminium foil sleeves",
-    "cone manufacturer",
-    "B2B food packaging",
-    "Surat",
-    "Gujarat",
-    "FSSAI certified",
-    "custom printing sleeves",
+    "ice cream cone manufacturer in india",
+    "ice cream cone supplier",
+    "ice cream cones wholesale india",
+    "waffle cone manufacturer",
+    "sugar cone manufacturer",
+    "ice cream sleeves manufacturer",
+    "aluminium foil ice cream sleeves",
+    "b2b ice cream packaging",
+    "ice cream consumables manufacturer",
+    "ice cream companies supplier",
+    "FSSAI cone manufacturer",
+    "Surat ice cream manufacturer",
   ],
   authors: [{ name: "Naksh Enterprise" }],
   creator: "Naksh Enterprise",
   publisher: "Naksh Enterprise",
   metadataBase: new URL("https://nakshcones.in"),
+
   openGraph: {
     type: "website",
     locale: "en_IN",
     url: "https://nakshcones.in",
     siteName: "Naksh Enterprise",
-    title: "Naksh Enterprise | Premium Ice Cream Cones & Sleeves",
+    title:
+      "Ice Cream Cone Manufacturer in India | Naksh Enterprise",
     description:
-      "Your trusted B2B partner for premium ice cream cones and custom aluminium foil sleeves. The Crunch That Lasts.",
+      "Trusted B2B ice cream cone & aluminium sleeve manufacturer for ice cream brands across India. The Crunch That Lasts.",
     images: [
       {
         url: "/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "Naksh Enterprise - Premium Ice Cream Cones",
+        alt: "Ice Cream Cone Manufacturing Facility – Naksh Enterprise",
       },
     ],
   },
+
   twitter: {
     card: "summary_large_image",
-    title: "Naksh Enterprise | Premium Ice Cream Cones",
-    description: "Premier B2B manufacturer of ice cream cones and aluminium foil sleeves",
+    title:
+      "Ice Cream Cone Manufacturer in India | Naksh Enterprise",
+    description:
+      "Premium B2B manufacturer of ice cream cones and aluminium foil sleeves for ice cream companies.",
     images: ["/og-image.jpg"],
   },
+
   robots: {
     index: true,
     follow: true,
-    googleBot: {
-      index: true,
-      follow: true,
-      "max-video-preview": -1,
-      "max-image-preview": "large",
-      "max-snippet": -1,
-    },
   },
+
   icons: {
-    icon: [
-      {
-        url: "/logo/logo.png",
-        media: "(prefers-color-scheme: light)",
-      },
-      {
-        url: "/logo/logo.png",
-        media: "(prefers-color-scheme: dark)",
-      },
-      {
-        url: "/logo/logo.svg",
-        type: "image/svg+xml",
-      },
-    ],
+    icon: "/logo/logo.png",
     apple: "/logo/logo.png",
   },
-    generator: ''
 }
 
 export const viewport: Viewport = {
