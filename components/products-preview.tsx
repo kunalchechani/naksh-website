@@ -8,7 +8,7 @@ const products = [
     title: "Ice Cream Cones",
     description:
       "Premium rolled sugar cones in 5 sizes - from Standard (110mm) to Ultra Mini (65mm). Available in Classic, Chocolate, Strawberry, Vanilla & Charcoal flavors.",
-    image: "/golden-brown-sugar-rolled-ice-cream-cones-stack-pr.jpg",
+    image: "/cones_best_quality.webp",
     href: "/products#cones",
     features: ["5 Size Options", "Multiple Flavors", "Humidity Resistant"],
   },
@@ -16,7 +16,7 @@ const products = [
     title: "Aluminium Foil Sleeves",
     description:
       "Custom printed conical sleeves in 9 size variants. Full-color CMYK printing with gloss or matte finish options.",
-    image: "/aluminium-foil-ice-cream-cone-sleeves-printed-colo.jpg",
+    image: "/custom-printed-ice-cream-sleeves-various-designs-c.jpg",
     href: "/products#sleeves",
     features: ["Custom Printing", "9 Size Variants", "Food Grade"],
   },
